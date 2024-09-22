@@ -1,0 +1,4 @@
+{:paths ["src/main" "classes"]
+ :deps {org.jmonkeyengine/jme3-core {:mvn/version "3.7.0-beta1.2.2"}
+        org.jmonkeyengine/jme3-desktop {:mvn/version "3.7.0-beta1.2.2"}
+         org.jmonkeyengine/jme3-lwjgl3 {:mvn/version "3.7.0-beta1.2.2"}}}
